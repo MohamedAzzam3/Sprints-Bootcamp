@@ -1,0 +1,19 @@
+after meeting with product owner we dicussed the sprint planning process 
+
+* The Sprint Goal :
+           _ Create signup page 
+           
+* The Team Capacity :
+           _ 3 members
+           _ 40 hours per week
+           _ 2 week sprint 
+
+* Product Backlog Items :
+           _ signup to the application
+           _ log in (existing members) 
+           _ reset password
+           
+* Sprint Tasks :
+           _ create the design template
+           _ create the database
+           _ run tests to check performance 
