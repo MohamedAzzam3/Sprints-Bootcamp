@@ -1,0 +1,22 @@
+DoD :a checklist for all the Sprint Backlog items that have passed all the conditions and acceptance
+      criteria and are ready to be accepted by the users, consumers, or teams.
+      
+Examples: 
+      -  Writing and passing of unit tests
+      -  Updating documentation
+      -  Building projects without any mistakes
+      -  Reviewing feature by the Product Owner
+      -  Deploying the project in the session of testing
+      -  Testing the feature against Acceptance Criteria
+      -  Performing Q&A session and resolving the problems     
+   
+   
+DoR :  to keep track of the items at the top of the Product Backlog that has fulfilled certain 
+        pre-conditions and can be added to a Sprint
+        
+Examples:
+      -  A user story is defined, feasible, testable, and clear
+      -  Dependencies of a user story are recognized
+      -  The acceptance criteria of a user story are defined
+      -  Performance and efforts of the team are estimated
+      -  Individual accepting the user story is recognized
